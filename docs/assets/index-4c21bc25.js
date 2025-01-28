@@ -57552,7 +57552,7 @@ const M7 = (n, e) =>
         { name: "node", color: "xyz-text-gradient" },
       ],
       image: O7,
-      source_code_link: "https://github.com/haseeb0771/E-commerce",
+      source_code_link: "https://github.com/haseeb0771/Ecommerce",
     },
     {
       name: "Monkey-News",
@@ -57578,7 +57578,7 @@ const M7 = (n, e) =>
         { name: "node", color: "xyz-text-gradient" },
       ],
       image: z7,
-      source_code_link: "https://github.com/haseeb0771/Mini-App",
+      source_code_link: "https://github.com/haseeb0771/Mini-Project",
     },
   ],
   V7 = () => {

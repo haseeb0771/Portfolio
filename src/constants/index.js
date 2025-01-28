@@ -243,7 +243,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/haseeb0771/E-commerce",
+    source_code_link: "https://github.com/haseeb0771/Ecommerce",
   },
   {
     name: "Monkey-News",
@@ -293,7 +293,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/haseeb0771/Mini-App",
+    source_code_link: "https://github.com/haseeb0771/Mini-Project",
   },
 ];
 
