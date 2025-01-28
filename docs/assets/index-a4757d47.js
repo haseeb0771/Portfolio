@@ -57552,7 +57552,7 @@ const M7 = (n, e) =>
         { name: "node", color: "xyz-text-gradient" },
       ],
       image: O7,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/haseeb0771/E-commerce",
     },
     {
       name: "Monkey-News",
@@ -57565,7 +57565,7 @@ const M7 = (n, e) =>
         { name: "node", color: "xyz-text-gradient" },
       ],
       image: U7,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/haseeb0771/Monkey-News",
     },
     {
       name: "Mini-App",
@@ -57578,7 +57578,7 @@ const M7 = (n, e) =>
         { name: "node", color: "xyz-text-gradient" },
       ],
       image: z7,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/haseeb0771/Mini-App",
     },
   ],
   V7 = () => {
